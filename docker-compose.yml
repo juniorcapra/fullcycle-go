@@ -1,7 +1,0 @@
-version: "3"
-services:
-  app:
-    image: juniorcapra/desafio-golang
-    container_name: app_name   
-    restart: always
-    tty: true
